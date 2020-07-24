@@ -57,3 +57,9 @@ If you encounter problems during the installation it may be because of the multi
 > pip install cld2-cffi
 > pip install multi-rake
 ```
+
+
+Download the report
+<a class="cleanLinkSource" href="https://github.com/wangyangparis/SCBert/blob/master/Rapport_Projet_Fil_Rouge.pdf">
+     here </a>.
+
