@@ -5,7 +5,6 @@ Created on Wed May  6 11:49:32 2020
 
 Sentence Clustering with pretrained BERT models
 
-@author: kevin
 """
 import torch
 from transformers import FlaubertModel,FlaubertTokenizer, FlaubertConfig
